@@ -13,7 +13,7 @@ import java.sql.*;
 public class Login extends javax.swing.JFrame {
 
     /**
-     * Creates new form Login
+     * Creates new Login Form for users. The form appears as User interface that allows users to easily login 
      */
     
  

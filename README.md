@@ -1,2 +1,2 @@
 # House-Management-
-It manages house Rents and Charges
+The House management platform basically manages house Rents and Charges based on various house criteria
